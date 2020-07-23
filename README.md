@@ -1,1 +1,1 @@
-Add various displays to NaoVNA V1 & V2
+Add various displays to NanoVNA V1 & V2
